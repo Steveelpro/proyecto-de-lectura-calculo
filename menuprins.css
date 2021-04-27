@@ -1,0 +1,66 @@
+.menu{
+	
+	
+	height:540px;
+	width:780px;
+	position:absolute;
+	top:20px;
+	left:20px;
+	
+	
+}
+.resumen{
+	
+	margin:auto;
+	padding:4px;
+	width:780px;
+	height:680%;
+	background-color:white;
+	
+	
+	
+}
+.regresar{
+	
+	border-radius:9px;
+	
+	
+}
+
+.formulario{
+	
+	margin:auto;
+	padding:4px;
+	width:430px;
+	height:450px;
+	
+	
+}
+.dato{
+	border-radius:9px;
+	
+}
+.confir{
+	width:500px;
+	height:190px;
+	background-image:url('homero confirm.png');
+	display:none;
+	position:absolute;
+	top:150px;
+	left:170px;
+}
+.entrar{
+	
+	background-color:#34FCFF;
+	border-color:34FCFF;
+	border-radius:9px;
+	cursor:pointer;
+	width:250px;
+}
+.subir{
+	
+	background-color:#34FCFF;
+	border-color:34FCFF;
+	border-radius:9px;
+	cursor:pointer;
+}
